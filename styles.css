@@ -222,7 +222,7 @@ section {
 }
 
 .project-image {
-    height: 200px;
+    height: 160px;
     background: #f8fafc;
     display: flex;
     align-items: center;
@@ -239,12 +239,12 @@ section {
 }
 
 .project-content {
-    padding: 2rem;
+    padding: 1.5rem;
 }
 
 .project-content h3 {
-    font-size: 1.6rem;
-    margin-bottom: 1.2rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.8rem;
     color: #1a202c;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
@@ -255,9 +255,9 @@ section {
 
 .project-content p {
     color: #718096;
-    margin-bottom: 1.8rem;
-    line-height: 1.7;
-    font-size: 1.05rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+    font-size: 1rem;
     position: relative;
     z-index: 2;
 }
